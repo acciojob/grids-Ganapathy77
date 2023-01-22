@@ -1,2 +1,30 @@
-
+.my-container{
+	border: 0.4rem solid lightgreen;
+	background-color: brown;
+}
+.my-row{
+	border: 0.4rem solid pink;
+	height: 13rem;
+}
+.my-col{
+	border: 0.1rem dotted black;
+}
+.r1c1{
+   background-color: teal;
+}
+.r1c2{
+	background-color: thistle;
+}
+.r2c1{
+    background-color:tomato;
+}
+.r2c2{
+    background-color:turquoise
+}
+.r3c1{
+    background-color:violet
+}
+.r3c2{
+    background-color: yellowgreen;
+}
 /* Your CSS Code here. */
